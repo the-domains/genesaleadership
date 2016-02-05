@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:40:09.514Z'
-dateModified: '2016-02-05T21:39:25.112Z'
+datePublished: '2016-02-05T21:48:19.059Z'
+dateModified: '2016-02-05T21:44:45.183Z'
 title: Young Catalyst Leaders
 author: []
 sourcePath: _posts/2016-02-05-young-catalyst-leaders.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 __
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df3237b4-3a37-4635-b2f0-5b4a5457a861.jpg)
 
 # Young Catalyst Leaders
 
