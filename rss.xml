@@ -2,17 +2,26 @@
     <channel>
         <title><![CDATA[Genesa Leadership]]></title>
         <description><![CDATA[Genesa Leadership]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/genesaleadership/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 21:18:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 21:18:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/genesaleadership/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thinking Beyond the Box : How Young Catalysts Will Lead the
+Future of Business]]></title>
+            <description><![CDATA[<article><h1>Thinking Beyond the Box : How Young Catalysts Will Lead the
+Future of Business</h1><p>Corporate America has two huge problems:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f16aa656bdddac193f049586f3b5bfccdec5a42d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/genesaleadership/thinking-beyond-the-box-how-young-catalysts-will-lead-the/index.html</link>
+            <guid isPermaLink="false">3f42165e-354b-42a4-918e-d662bd6c16e8</guid>
+            <pubDate>Fri, 05 Feb 2016 21:18:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Adult Stage Development]]></title>
             <description><![CDATA[<article><h1>Adult Stage Development</h1><p>We know that as people develop - how one views the
 world, what one chooses to identify with and how one makes sense of reality - they
 transition thru a series of recognizable stages. We develop through these stages on a continuum. When we are presented with new ideas we question, test, fall
 back into our comfort zone (regress), and test new behaviors again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22f44bca119bd6be0034c02bc178f4f6f6bdf029.jpg"></article>]]></description>
-            <link>undefinedadult-stage-development/index.html</link>
+            <link>https://thegrid.ai/genesaleadership/adult-stage-development/index.html</link>
             <guid isPermaLink="false">fff25084-a1fd-4e23-957b-9f64bb390b6a</guid>
             <pubDate>Fri, 05 Feb 2016 21:18:27 GMT</pubDate>
         </item>
