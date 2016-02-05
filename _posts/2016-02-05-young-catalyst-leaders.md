@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:48:19.059Z'
-dateModified: '2016-02-05T21:44:45.183Z'
+datePublished: '2016-02-05T21:50:03.623Z'
+dateModified: '2016-02-05T21:48:22.423Z'
 title: Young Catalyst Leaders
 author: []
 sourcePath: _posts/2016-02-05-young-catalyst-leaders.md
@@ -29,7 +29,7 @@ __
 
 __
 
-_What has given you the greatest sense of accomplishment so far? What qualities of character helped you to achieve it? Did failure or overcoming obstacles factor into your success? How did you overcome them and persevere?___
+_What has given you the greatest sense of accomplishment so far? What qualities of character helped you to achieve it? Did failure or overcoming obstacles factor into your success? How did you overcome them and persevere?_
 
 I have a magnet on the fridge that says, "Go into the world
 and do well, but more importantly go into the world and do good."
