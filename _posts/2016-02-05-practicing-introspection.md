@@ -1,35 +1,20 @@
 ---
-author:
-  - name: childofthe80s4eva
-    url: 'https://www.instagram.com/childofthe80s4eva'
-    avatar: {}
-related: []
+description: Practicing Introspection
+author: []
+datePublished: '2016-02-05T21:59:39.766Z'
 publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
-app_links:
-  - url: 'instagram://media?id=1170387112507488018'
-    type: ios
-    app_name: Instagram
-    app_store_id: '389801252'
-  - url: 'https://www.instagram.com/p/BA-DOC6tDcS/'
-    type: android
-    app_name: Instagram
-    package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/BA-DOC6tDcS/'
+  domain: ''
+  name: ''
 title: 'Practicing Introspection '
-datePublished: '2016-02-05T21:40:09.585Z'
-dateModified: '2016-02-05T21:22:44.321Z'
+dateModified: '2016-02-05T21:57:24.413Z'
 sourcePath: _posts/2016-02-05-practicing-introspection.md
 published: true
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-_type: Photograph
+url: practicing-introspection/index.html
 _context: 'http://schema.org'
+_type: Article
 
 ---
-# Practicing Introspection ![One more shot of that glorious &num;desertsky&period; &num;Sunsets like this are the cherry on top of a weekend of &num;camping and &num;climbing in &num;jtree](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12558376_131545440560013_76194736_n.jpg)
+# Practicing Introspection ![Watching the &num;sunrise kiss the face of &num;Annapurna on a clear summer morning in the &num;Himalayas&period; &num;nofilter &num;gratitude &num;trekking](https://scontent.cdninstagram.com/t51.2885-15/e15/11910464_1487096361604923_1027688311_n.jpg)
