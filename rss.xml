@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GenesaLeadership]]></title>
+        <description><![CDATA[GenesaLeadership]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 20:56:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thinking Beyond the Box : How Young Catalysts Will Lead the
+Future of Business]]></title>
+            <description><![CDATA[<article><h1>Thinking Beyond the Box : How Young Catalysts Will Lead the
+Future of Business</h1><p>Corporate America has two huge problems:</p></article>]]></description>
+            <link>undefinedthinking-beyond-the-box-how-young-catalysts-will-lead-the/index.html</link>
+            <guid isPermaLink="false">3f42165e-354b-42a4-918e-d662bd6c16e8</guid>
+            <pubDate>Fri, 05 Feb 2016 20:55:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
