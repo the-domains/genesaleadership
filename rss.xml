@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GenesaLeadership]]></title>
         <description><![CDATA[GenesaLeadership]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/genesaleadership/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 20:43:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 20:13:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/genesaleadership/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Thinking Beyond the Box]]></title>
             <description><![CDATA[<article><h1>Thinking Beyond the Box</h1><p>How adult stage development impacts mastery of leadership competencies</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73df717ac9e29bdf0f7821af70072a54167e8d17.png"></article>]]></description>
-            <link>undefined240f2d33-26a3-488f-87d5-28558eab73e9/index.html</link>
+            <link>https://thegrid.ai/genesaleadership/240f2d33-26a3-488f-87d5-28558eab73e9/index.html</link>
             <guid isPermaLink="false">240f2d33-26a3-488f-87d5-28558eab73e9</guid>
-            <pubDate>Thu, 04 Feb 2016 20:43:52 GMT</pubDate>
+            <pubDate>Fri, 05 Feb 2016 20:13:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
