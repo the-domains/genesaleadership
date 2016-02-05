@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T22:44:43.805Z'
-dateModified: '2016-02-05T22:43:19.926Z'
+datePublished: '2016-02-05T22:53:40.904Z'
+dateModified: '2016-02-05T22:53:38.257Z'
 title: Young Catalyst Leaders
 author: []
 sourcePath: _posts/2016-02-05-young-catalyst-leaders.md
@@ -22,7 +23,7 @@ _type: Blurb
 
 ---
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df3237b4-3a37-4635-b2f0-5b4a5457a861.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bce7ab8827579aaf1dc2224a0e599b42f24d96b.jpg)
 
 # Young Catalyst Leaders
 
