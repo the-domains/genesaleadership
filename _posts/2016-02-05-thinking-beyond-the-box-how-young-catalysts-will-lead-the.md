@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:18:27.229Z'
-dateModified: '2016-02-05T21:17:43.316Z'
+datePublished: '2016-02-05T22:51:57.679Z'
+dateModified: '2016-02-05T22:51:53.517Z'
 title: |-
   Thinking Beyond the Box : How Young Catalysts Will Lead the
   Future of Business
@@ -24,7 +24,7 @@ url: thinking-beyond-the-box-how-young-catalysts-will-lead-the/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27c1eae1-a0be-4347-8081-5a5ae8e0b34c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f16aa656bdddac193f049586f3b5bfccdec5a42d.jpg)
 
 # Thinking Beyond the Box : How Young Catalysts Will Lead the
 Future of Business
