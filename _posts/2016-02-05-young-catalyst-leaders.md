@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:50:03.623Z'
-dateModified: '2016-02-05T21:48:22.423Z'
+datePublished: '2016-02-05T22:44:43.805Z'
+dateModified: '2016-02-05T22:43:19.926Z'
 title: Young Catalyst Leaders
 author: []
 sourcePath: _posts/2016-02-05-young-catalyst-leaders.md
@@ -18,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: young-catalyst-leaders/index.html
-_type: Article
+_type: Blurb
 
 ---
 __
@@ -53,3 +52,8 @@ trust.
 
 _How do you build
 conditions of trust?_
+
+In every experience when you show empathy and humility this
+is how you build conditions of trust: Showing whatever you commit to do, you
+do; By your actions, being there; Showing a strong sense that you care, that
+you care about family, friends, employees. Caring is a strong part of it.
