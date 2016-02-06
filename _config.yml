@@ -1,12 +1,7 @@
+name: Genesa Leadership
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.75245
+typography_spectrum: 0.82094
 collections:
   - index:
       path: /
@@ -19,22 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2510638
-  brandStrength: 0.06595745
-  lightness: 0.1234043
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+  brandStrength: 0.06595745
+  lightness: 0.1234043
+  saturation: 0.2510638
   rhythmicContrast: 0.3829787
-typography_spectrum: 0.82094
-layout_spectrum: 0.5297872
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Genesa Leadership
+purpose: []
