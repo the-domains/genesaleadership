@@ -1,5 +1,4 @@
-favicon: null
-name: Genesa Leadership
+layout_spectrum: 0.75245
 opengraph:
   image: null
   type: null
@@ -20,7 +19,7 @@ purpose: []
 color:
   saturation: 0.2510638
   brandStrength: 0.2352445
-  lightness: 0.1234043
+  lightness: 0.7150084
   brandColors:
     - '#A690A4'
     - '#B68F9D'
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.75245
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Genesa Leadership
