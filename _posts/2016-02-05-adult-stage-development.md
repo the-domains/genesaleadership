@@ -6,35 +6,34 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:18:27.155Z'
-dateModified: '2016-02-05T21:11:49.665Z'
+datePublished: '2016-02-09T03:52:41.234Z'
+dateModified: '2016-02-09T03:52:38.777Z'
 title: Adult Stage Development
 author: []
+sourcePath: _posts/2016-02-05-adult-stage-development.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-adult-stage-development.md
-published: true
 url: adult-stage-development/index.html
 _type: Article
 
 ---
 # Adult Stage Development
 
-We know that as people develop - how one views the
-world, what one chooses to identify with and how one makes sense of reality - they
-transition thru a series of recognizable _stages_. We develop through these stages on a continuum. When we are presented with new ideas we question, test, fall
-back into our comfort zone (regress), and test new behaviors again.
+We know that as people develop - how they view the
+world, what they choose to identify with and they make sense of reality - they
+transition thru a series of recognizable _stages_. Development through these stages is on a continuum. So for example, when one is presented with new ideas, one questions, tests new behaviors, falls back into their comfort zone, and then forward, testing the new behaviors again.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22f44bca119bd6be0034c02bc178f4f6f6bdf029.jpg)
 
 Each stage has recognizable
 characteristics.
 
 Knowing which stage one is in one can
 predict how one thinks, learns and behaves.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3751b8fb-d21c-4404-8953-321b2e876ec3.JPG)
 
 Early stages of development are closely
 correlated with age. However, once one reaches their 20s this correlation disappears. 
