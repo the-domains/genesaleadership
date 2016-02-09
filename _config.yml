@@ -1,7 +1,11 @@
-name: Genesa Leadership
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.3425532
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
@@ -14,27 +18,23 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+purpose: []
+color:
+  saturation: 0.05744681
+  brandStrength: 0.8425532
+  lightness: 0.1468085
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  rhythmicContrast: 0.3829787
+typography_spectrum: 0.6595744
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#84ffa4'
-    - '#8df6fc'
-    - '#ffffff'
-    - '#e6c0fe'
-    - '#faa0ff'
-  brandStrength: 0.8425532
-  lightness: 0.125
-  saturation: 0.05744681
-  rhythmicContrast: 1
-purpose: []
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Genesa Leadership
