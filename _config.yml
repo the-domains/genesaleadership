@@ -1,3 +1,4 @@
+favicon: null
 name: Genesa Leadership
 opengraph:
   image: null
@@ -9,32 +10,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.8340425
   brandStrength: 0.8425532
   lightness: 0.1795953
   brandColors:
-    - '#FF771F'
-    - '#FA3018'
-    - '#383A16'
-    - '#FFFF05'
-    - '#D0A16F'
+    - '#291E33'
+    - '#39BFB0'
+    - '#E5F3E9'
+    - '#F4D13A'
+    - '#C2B59B'
   rhythmicContrast: 0.4595745
 typography_spectrum: 0.6595744
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 1
