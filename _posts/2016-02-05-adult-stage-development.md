@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T03:52:41.234Z'
-dateModified: '2016-02-09T03:52:38.777Z'
+datePublished: '2016-02-15T16:30:31.135Z'
+dateModified: '2016-02-09T03:52:45.759Z'
 title: Adult Stage Development
 author: []
 sourcePath: _posts/2016-02-05-adult-stage-development.md
@@ -23,11 +23,11 @@ _type: Article
 
 ---
 # Adult Stage Development
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22f44bca119bd6be0034c02bc178f4f6f6bdf029.jpg)
 
 We know that as people develop - how they view the
 world, what they choose to identify with and they make sense of reality - they
 transition thru a series of recognizable _stages_. Development through these stages is on a continuum. So for example, when one is presented with new ideas, one questions, tests new behaviors, falls back into their comfort zone, and then forward, testing the new behaviors again.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22f44bca119bd6be0034c02bc178f4f6f6bdf029.jpg)
 
 Each stage has recognizable
 characteristics.
