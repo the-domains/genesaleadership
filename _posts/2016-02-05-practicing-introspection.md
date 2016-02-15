@@ -1,20 +1,26 @@
 ---
-description: Practicing Introspection
-author: []
-datePublished: '2016-02-05T21:59:39.766Z'
-publisher:
-  domain: ''
-  name: ''
-title: 'Practicing Introspection '
-dateModified: '2016-02-05T21:57:24.413Z'
-sourcePath: _posts/2016-02-05-practicing-introspection.md
-published: true
 inFeed: true
 hasPage: true
 inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: Practicing Introspection
+datePublished: '2016-02-15T16:30:09.670Z'
+dateModified: '2016-02-06T18:17:44.339Z'
+author: []
+title: 'Practicing Introspection '
+sourcePath: _posts/2016-02-05-practicing-introspection.md
+published: true
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 url: practicing-introspection/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Practicing Introspection ![Watching the &num;sunrise kiss the face of &num;Annapurna on a clear summer morning in the &num;Himalayas&period; &num;nofilter &num;gratitude &num;trekking](https://scontent.cdninstagram.com/t51.2885-15/e15/11910464_1487096361604923_1027688311_n.jpg)
+# Practicing Introspection ![Watching the #sunrise kiss the face of #Annapurna on a clear summer morning in the #Himalayas. #nofilter #gratitude #trekking](https://s3-us-west-2.amazonaws.com/the-grid-img/p/76e1fc6cd69f4f6012b2302097e216b41ba53d9c.jpg)
